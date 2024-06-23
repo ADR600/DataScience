@@ -1,5 +1,6 @@
-#created an class that takes string as input and can return word count of a perticular word
 
+#created an class that takes string as input and can return word count of a perticular word
+#ran using Jupiter Notebook
 class TextAnalyzer(object):
     
     def __init__ (self, text):
