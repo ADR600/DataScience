@@ -11,10 +11,8 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 3. [Projects](#projects)
    
 4. [Data Sources](#data-sources)
-   
-5. [How to Use This Portfolio](#how-to-use-this-portfolio)
 
-6. [Contact](#contact)
+5. [Contact](#contact)
 
 
 
@@ -109,3 +107,8 @@ Link: View Project
 
 #####  Public datasets from Kaggle, UCI Machine Learning Repository, and governmental agencies.
 ##### APIs such as Riot Games , OpenWeather, Google Maps, and more.
+
+## 5.Contact
+
+Gmail:  [ankithrao40@gmail.com](mailto:ankithrao40@gmail.com)
+, ankithdineshrao@gmail.com
