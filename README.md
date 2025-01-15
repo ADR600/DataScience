@@ -77,13 +77,14 @@ Tools Used: Python (scikit-learn, pandas), Matplotlib
 
 Link: [View Project](Project/TESLAvsGME_stock_analysis)
 
-#### 3. Web Traffic Analysis
+#### 3. House Pricing 
 
-Description: Conducted exploratory data analysis (EDA) to uncover traffic patterns and optimize a marketing strategy.
+Description: Conducted exploratory data analysis (EDA) to understand data and gain meanngful ensight.The project is divided into two section : EDA 
+          Feature engineering 
 
 Tools Used: Python (pandas, seaborn), Google Analytics
 
-Link: View Project
+Link: [View To View EDA](Project/House_Pricing/House_pricing)
 
 #### 4. Retail Market Basket Analysis
 
