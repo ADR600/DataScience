@@ -4,15 +4,18 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 
 ## __Table of Contents__
 
-1. About Me
+1. [About Me](#about-me)
+   
+2. [Skills and Tools](#skills-and-tools)
+   
+3. [Projects](#projects)
+   
+4. [Data Sources](#data-sources)
+   
+5. [How to Use This Portfolio](#how-to-use-this-portfolio)
 
-2. Skills and Tools
+6. [Contact](#contact)
 
-3. Projects
-
-4. Data Sources
-
-5. Contact
 
 
 ## 1.About Me
