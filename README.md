@@ -16,11 +16,11 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 
 
 
-## 1.About Me
+## 1. About Me
 
 I am a data enthusiast passionate about leveraging data to solve real-world problems. My background includes experience in data wrangling, statistical analysis, machine learning, and creating impactful visualizations. I am continuously learning and exploring new tools and methodologies to stay at the forefront of the data analytics field.
 
-## 2.Skills and Tools
+## 2. Skills and Tools
 
 Here are the key skills and tools I bring to the table:
 
@@ -108,7 +108,7 @@ Link: View Project
 #####  Public datasets from Kaggle, UCI Machine Learning Repository, and governmental agencies.
 ##### APIs such as Riot Games , OpenWeather, Google Maps, and more.
 
-## 5.Contact
+## 5. Contact
 
 Gmail:  [ankithrao40@gmail.com](mailto:ankithrao40@gmail.com)
 , [ankithdineshrao@gmail.com](mailto:ankithdineshrao@gmail.com)
