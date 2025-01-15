@@ -69,13 +69,13 @@ Tools Used: Tableau, SQL
 
 Link: [View Project]()
 
-#### 2. Predictive Modeling for Customer Churn
+#### 2. TESLA vs GameStop Stock Analysis
 
-Description: Developed a machine learning model to predict customer churn for a subscription-based service.
+Description:Using data from Yahoo-Finance API to understand revenue 
 
 Tools Used: Python (scikit-learn, pandas), Matplotlib
 
-Link: View Project
+Link: [View Project](Project/TESLAvsGME_stock_analysis)
 
 #### 3. Web Traffic Analysis
 
