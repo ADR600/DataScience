@@ -105,7 +105,7 @@ Tools Used: Python (pandas, matplotlib), Jupyter Notebook
 
 Link: View Project
 
-### Data Sources
+## 4. Data Sources
 
 #####  Public datasets from Kaggle, UCI Machine Learning Repository, and governmental agencies.
 ##### APIs such as Riot Games , OpenWeather, Google Maps, and more.
