@@ -4,15 +4,15 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 
 ## __Table of Contents__
 
-1. [About Me](#about-me)
+1. [About Me](#1-about-me)
    
-2. [Skills and Tools](#skills-and-tools)
+2. [Skills and Tools](#2-skills-and-tools)
    
-3. [Projects](#projects)
+3. [Projects](#3-projects)
    
-4. [Data Sources](#data-sources)
+4. [Data Sources](#4-data-sources)
 
-5. [Contact](#contact)
+5. [Contact](#5-contact)
 
 
 
@@ -58,7 +58,7 @@ Microsoft Excel (advanced)
 
 Jupyter Notebooks 
 
-## 3.Projects
+## 3. Projects
 
 This section includes a selection of projects that demonstrate my expertise:
 
