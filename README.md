@@ -84,7 +84,7 @@ Description: Conducted exploratory data analysis (EDA) to understand data and ga
 
 Tools Used: Python (pandas, seaborn), Google Analytics
 
-Link: [View To View EDA](Project/House_Pricing/House_pricing)
+Link: [View To View EDA](Project/House_Pricing/House_pricing.ipynb)
 
 #### 4. Retail Market Basket Analysis
 
