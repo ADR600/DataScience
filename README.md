@@ -93,7 +93,7 @@ Description: Identify relationship between index and stock(IRCTC:Indian Railway 
 
 Tools Used: python, pandas, statistics 
 
-Link: [View Project](Project/fintech)
+Link: [View Project](Project/fintech.ipynb)
 
 #### 5. COVID-19 Impact Study
 
