@@ -87,13 +87,13 @@ Tools Used: Python (pandas, seaborn), Google Analytics
 
 Link: [View To View EDA](Project/House_Pricing/House_pricing.ipynb)
 
-#### 4. Retail Market Basket Analysis
+#### 4. Relation Between Index and Stock 
 
-Description: Performed association rule mining to identify product bundling opportunities.
+Description: Identify relationship between index and stock(IRCTC:Indian Railway Catering and Tourism Corporation). Relation 
 
-Tools Used: R (arules), Tableau
+Tools Used: python, pandas, statistics 
 
-Link: View Project
+Link: [View Project](Project/fintech)
 
 #### 5. COVID-19 Impact Study
 
@@ -106,7 +106,7 @@ Link: View Project
 ## 4. Data Sources
 
 #####  Public datasets from Kaggle, UCI Machine Learning Repository, and governmental agencies.
-##### APIs such as Riot Games , OpenWeather, Google Maps, and more.
+##### APIs such as Riot Games , yfinance , OpenWeather, Google Maps, and more.
 
 ## 5. Contact
 
