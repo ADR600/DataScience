@@ -5,7 +5,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 ## __Table of Contents__
 
 1. [About Me](#1-about-me)
-   
+
 2. [Skills and Tools](#2-skills-and-tools)
    
 3. [Projects](#3-projects)
@@ -42,7 +42,6 @@ Matplotlib & Seaborn
 
 Regression, Classification..etc 
 
-Model Evaluation 
 
 ### Data Engineering:
 
@@ -62,23 +61,16 @@ Jupyter Notebooks
 
 This section includes a selection of projects that demonstrate my expertise:
 
-#### 1. Riot Games 
 
-Description: Built an interactive Tableau dashboard to analyze sales trends, customer segmentation, and product performance.
+#### 1. TESLA vs GameStop Stock Analysis
 
-Tools Used: Tableau, SQL
+Description:Using  Yahoo-Finance API and  web-scrapping to obtain data and parse it using BeautifulSoup. Un-reveal trend in revenue and share price of both stocks. Determining which would be a safer option to invest.
 
-Link: [View Project]()
-
-#### 2. TESLA vs GameStop Stock Analysis
-
-Description:Using data from Yahoo-Finance API to understand revenue 
-
-Tools Used: Python (scikit-learn, pandas), Matplotlib
+Liberaries Used: BeautifulSoup,pandas,plotly
 
 Link: [View Project](Project/TESLAvsGME_stock_analysis)
 
-#### 3. House Pricing 
+#### 2. House Pricing 
 
 Description: Conducted exploratory data analysis (EDA) to understand data and gain meanngful ensight.The project is divided into two section : EDA 
           Feature engineering 
@@ -87,7 +79,7 @@ Tools Used: Python (pandas, seaborn), Google Analytics
 
 Link: [View To View EDA](Project/House_Pricing/House_pricing.ipynb)
 
-#### 4. Relation Between Index and Stock 
+#### 3. Relation Between Index and Stock 
 
 Description: Identify relationship between index and stock(IRCTC:Indian Railway Catering and Tourism Corporation). Relation 
 
@@ -95,18 +87,11 @@ Tools Used: python, pandas, statistics
 
 Link: [View Project](Project/fintech.ipynb)
 
-#### 5. COVID-19 Impact Study
-
-Description: Analyzed the global impact of COVID-19 using publicly available datasets.
-
-Tools Used: Python (pandas, matplotlib), Jupyter Notebook
-
-Link: View Project
 
 ## 4. Data Sources
 
-#####  Public datasets from Kaggle, UCI Machine Learning Repository, and governmental agencies.
-##### APIs such as Riot Games , yfinance , OpenWeather, Google Maps, and more.
+#####  Public datasets from Kaggle, websites , and governmental agencies.
+##### APIs such as  yfinance 
 
 ## 5. Contact
 
