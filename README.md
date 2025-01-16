@@ -62,15 +62,23 @@ Jupyter Notebooks
 This section includes a selection of projects that demonstrate my expertise:
 
 
-#### 1. TESLA vs GameStop Stock Analysis
+#### 1. Relation Between Index and Stock 
+
+Description: Identify relationship between index and stock(IRCTC:Indian Railway Catering and Tourism Corporation). Relation 
+
+Tools Used: python, pandas, statistics 
+
+Link: [View Project](Project/fintech.ipynb)
+
+#### 2. TESLA vs GameStop Stock Analysis
 
 Description:Using  Yahoo-Finance API and  web-scrapping to obtain data and parse it using BeautifulSoup. Un-reveal trend in revenue and share price of both stocks. Determining which would be a safer option to invest.
 
 Liberaries Used: BeautifulSoup,pandas,plotly
 
-Link: [View Project](Project/TESLAvsGME_stock_analysis)
+Link: [View Project](Project/TSLAvsGME.ipynb)
 
-#### 2. House Pricing 
+#### 3. House Pricing 
 
 Description: Conducted exploratory data analysis (EDA) to understand data and gain meanngful ensight.The project is divided into two section : EDA 
           Feature engineering 
@@ -79,13 +87,7 @@ Tools Used: Python (pandas, seaborn), Google Analytics
 
 Link: [View To View EDA](Project/House_Pricing/House_pricing.ipynb)
 
-#### 3. Relation Between Index and Stock 
 
-Description: Identify relationship between index and stock(IRCTC:Indian Railway Catering and Tourism Corporation). Relation 
-
-Tools Used: python, pandas, statistics 
-
-Link: [View Project](Project/fintech.ipynb)
 
 
 ## 4. Data Sources
