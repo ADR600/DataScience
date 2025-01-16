@@ -70,7 +70,7 @@ Tools Used: python, pandas, statistics
 
 Link: [View Project](Project/fintech.ipynb)
 
-#### 2. TESLA vs GameStop Stock Analysis
+#### 2. Stock Analysis
 
 Description:Using  Yahoo-Finance API and  web-scrapping to obtain data and parse it using BeautifulSoup. Un-reveal trend in revenue and share price of both stocks. Determining which would be a safer option to invest.
 
