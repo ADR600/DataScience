@@ -56,7 +56,9 @@ Dashboards made using tableau , preprocessing using Excel or  Python
 ###### Public datasets from Kaggle, tableau datasets, governmental agencies and other websites.
 #### 4. Contact
 Gmail:  [ankithrao40@gmail.com](mailto:ankithrao40@gmail.com)
-</picture>
+<p><a target="_blank" href="https://www.linkedin.com/in/ankith-d-rao-99a77525b" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
