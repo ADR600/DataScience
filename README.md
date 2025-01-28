@@ -14,7 +14,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 
 
 #### 1. About Me
-I am a aspiring data analyst who  leverages data to solve real-world problems.Click [Here](https://github.com/ADR600/DataScience/blob/9e9e7e717f6a5074026066aba9c673201c1a04d3/Folder/githubbanner.png) to find more about me.
+I am a aspiring data analyst who  leverages data to solve real-world problems.Click [Here](www.linkedin.com/in/ankith-d-rao-99a77525b) to find more about me.
 
 #### 2. Skills and Tools
 Here are the key skills and tools I bring to the table:
