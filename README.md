@@ -27,15 +27,12 @@ Here are the key skills and tools I bring to the table:
 ##### Programming Languages:
 
 Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, etc.)
-
 SQL (PostgreSQL)
-
 R & R Markdown
 
 ##### Data Visualization:
 
 Tableau
-
 Matplotlib & Seaborn
 
 ##### Machine Learning:
@@ -46,15 +43,12 @@ Regression, Classification..etc
 ##### Data Engineering:
 
 ETL (Extract, Transform, Load) processes
-
 Data cleaning and preprocessing
-
 Working with APIs and web scraping (BeautifulSoup)
 
 ##### Others:
 
 Microsoft Excel (advanced)
-
 Jupyter Notebooks 
 
 #### 3. Projects
@@ -80,8 +74,7 @@ Link: [View Project](Project/Python_Project/TSLAvsGME.ipynb)
 
 ###### 3. House Pricing 
 
-Description: Conducted exploratory data analysis (EDA) to understand data and gain meanngful ensight.The project is divided into two section : EDA 
-          Feature engineering 
+Description: Conducted exploratory data analysis (EDA) to understand data and gain meanngful ensight.The project is divided into two section : EDA ,Feature engineering 
 
 Tools Used: Python (pandas, seaborn), Google Analytics
 
