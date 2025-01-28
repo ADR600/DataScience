@@ -61,8 +61,7 @@ Dashboards made using tableau , preprocessing using Excel or  Python
 ##### 3.[Bike Sales ](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Bike%20Sale.md)
 
 #### 4. Data Sources
-#######  Public datasets from Kaggle, websites , and governmental agencies.
-####### APIs such as  yfinance 
+###### Public datasets from Kaggle, tableau datasets, governmental agencies and other websites.
 
 #### 5. Contact
 Gmail:  [ankithrao40@gmail.com](mailto:ankithrao40@gmail.com)
