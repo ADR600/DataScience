@@ -1,6 +1,6 @@
 <img src="https://github.com/ADR600/DataScience/blob/9e9e7e717f6a5074026066aba9c673201c1a04d3/Folder/githubbanner.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Ankith , a Aspiring Data Analyst  👋🏼:
+# Hello , I'm Ankith , a Aspiring Data Analyst  👋🏼:
 
 Welcome to my Data Analytics Portfolio! This repository showcases my skills, projects, and experience in data analysis, visualization, and modeling. It is designed to demonstrate my ability to derive meaningful insights from data and provide actionable recommendations. Below, you’ll find a breakdown of the contents and a guide to navigating the portfolio.
 
@@ -14,7 +14,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 
 
 #### 1. About Me
-I am a data enthusiast passionate about leveraging data to solve real-world problems.Click [Here]() to find more about me.
+I am a aspiring data analyst who  leverages data to solve real-world problems.Click [Here](https://github.com/ADR600/DataScience/blob/9e9e7e717f6a5074026066aba9c673201c1a04d3/Folder/githubbanner.png) to find more about me.
 
 #### 2. Skills and Tools
 Here are the key skills and tools I bring to the table:
