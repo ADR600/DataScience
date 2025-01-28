@@ -55,7 +55,7 @@ Link: [View Project](https://github.com/ADR600/DataScience/blob/1ce7f406632a4d5d
 #### 3. B) Dashboard 
 Dashboards made using tableau , preprocessing using Excel or  Python 
 ##### 1.[Startup in India](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Startup%20Funding%20.md)
-##### 2.[Customer Insight](Project/Dasboards/Customer Insight.md)
+##### 2.[Customer Insight](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Customer%20Insight.md)
 ##### 3.[Bike Sales ](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Bike%20Sale.md)
 
 #### 4. Data Sources
