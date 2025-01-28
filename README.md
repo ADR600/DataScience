@@ -6,17 +6,12 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 
 #### __Table of Contents__
 
-1. [About Me](#1-about-me)
-2. [Skills and Tools](#2-skills-and-tools)
-3. [Projects](#3-A-Projects) [Dashboard](#3-B-dashboard)
-5. [Data Sources](#4-data-sources)
-6. [Contact](#5-contact)
+1. [Skills and Tools](#1-skills-and-tools)
+2. [Projects](#2-A-Projects) [Dashboard](#2-B-dashboard)
+3. [Data Sources](#3-data-sources)
+4. [Contact](#4-contact)
 
-
-#### 1. About Me
-I am a aspiring data analyst who  leverages data to solve real-world problems.Click [Here](www.linkedin.com/in/ankith-d-rao-99a77525b) to find more about me.
-
-#### 2. Skills and Tools
+#### 1. Skills and Tools
 Here are the key skills and tools I bring to the table:
 ##### Programming Languages:
 Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, etc.)
@@ -35,7 +30,7 @@ Working with APIs and web scraping (BeautifulSoup)
 Microsoft Excel (advanced)
 Jupyter Notebooks 
 
-#### 3. A Projects
+#### 2. A Projects
 This section includes a selection of projects that demonstrate my expertise:
 
 ###### 1. Relation Between Index and Stock 
@@ -59,12 +54,11 @@ Dashboards made using tableau , preprocessing using Excel or  Python
 ##### 2.[Customer Insight](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Customer%20Insight.md)
 ##### 3.[Bike Sales ](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Bike%20Sale.md)
 
-#### 4. Data Sources
+#### 3. Data Sources
 ###### Public datasets from Kaggle, tableau datasets, governmental agencies and other websites.
 
-#### 5. Contact
+#### 4. Contact
 Gmail:  [ankithrao40@gmail.com](mailto:ankithrao40@gmail.com)
-, [ankithdineshrao@gmail.com](mailto:ankithdineshrao@gmail.com)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
