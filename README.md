@@ -85,7 +85,7 @@ Description: Conducted exploratory data analysis (EDA) to understand data and ga
 
 Tools Used: Python (pandas, seaborn), Google Analytics
 
-Link: [View To View EDA](Project/Python_Project/House Pricing/House_pricing.ipynb)
+Link: [View Project](https://github.com/ADR600/DataScience/blob/1ce7f406632a4d5debe516ad8e18602db4549b7b/Project/Python_Project/House%20Pricing/House_pricing.ipynb)
 
 
 
