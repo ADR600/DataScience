@@ -17,29 +17,24 @@ I am a data enthusiast passionate about leveraging data to solve real-world prob
 
 #### 2. Skills and Tools
 Here are the key skills and tools I bring to the table:
-
 ##### Programming Languages:
 Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, etc.)
 SQL (PostgreSQL)
 R & R Markdown
-
 ##### Data Visualization:
 Tableau
 Matplotlib & Seaborn
-
 ##### Machine Learning:
 Regression, Classification..etc 
-
 ##### Data Engineering:
 ETL (Extract, Transform, Load) processes
 Data cleaning and preprocessing
 Working with APIs and web scraping (BeautifulSoup)
-
 ##### Others:
 Microsoft Excel (advanced)
 Jupyter Notebooks 
 
-#### 3. Projects
+#### 3.A) Projects
 This section includes a selection of projects that demonstrate my expertise:
 
 ###### 1. Relation Between Index and Stock 
@@ -56,6 +51,12 @@ Link: [View Project](Project/Python_Project/TSLAvsGME.ipynb)
 Description: Conducted exploratory data analysis (EDA) to understand data and gain meanngful ensight.The project is divided into two section : EDA ,Feature engineering 
 Tools Used: Python (pandas, seaborn), Google Analytics
 Link: [View Project](https://github.com/ADR600/DataScience/blob/1ce7f406632a4d5debe516ad8e18602db4549b7b/Project/Python_Project/House%20Pricing/House_pricing.ipynb)
+
+#### 3. B) Dashboard 
+Dashboards made using tableau , preprocessing using Excel or  Python 
+##### 1.[Startup in India](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Startup%20Funding%20.md)
+##### 2.[Customer Insight](Project/Dasboards/Customer Insight.md)
+##### 3.[Bike Sales ](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Bike%20Sale.md)
 
 #### 4. Data Sources
 #######  Public datasets from Kaggle, websites , and governmental agencies.
