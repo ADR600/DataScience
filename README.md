@@ -7,9 +7,10 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 #### __Table of Contents__
 
 1. [Skills and Tools](#1-skills-and-tools)
-2. [Projects](#2-A-Projects) [Dashboard](#2-B-dashboard)
-3. [Data Sources](#3-data-sources)
-4. [Contact](#4-contact)
+2. [Projects](#2-A-Projects)
+3. [Dashboard](#2-B-dashboard)
+4. [Data Sources](#3-data-sources)
+5. [Contact](#4-contact)
 
 #### 1. Skills and Tools
 Here are the key skills and tools I bring to the table:
@@ -48,7 +49,7 @@ Description: Conducted exploratory data analysis (EDA) to understand data and ga
 Tools Used: Python (pandas, seaborn), Google Analytics
 Link: [View Project](https://github.com/ADR600/DataScience/blob/1ce7f406632a4d5debe516ad8e18602db4549b7b/Project/Python_Project/House%20Pricing/House_pricing.ipynb)
 
-#### 3. B Dashboard 
+#### 2. B Dashboard 
 Dashboards made using tableau , preprocessing using Excel or  Python 
 ##### 1.[Startup in India](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Startup%20Funding%20.md)
 ##### 2.[Customer Insight](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Customer%20Insight.md)
