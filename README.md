@@ -4,18 +4,22 @@
 Welcome to my Data Analytics Portfolio! This repository showcases my skills, projects, and experience in data analysis, visualization, and modeling. It is designed to demonstrate my ability to derive meaningful insights from data and provide actionable recommendations. Below, you’ll find a breakdown of the contents and a guide to navigating the portfolio.
 
 #### __Table of Contents__
-1. [Skills and Tools](#1-skills-and-tools)
+1. [Skills and Tools](#Tools-i-use)
 2. [Projects](#2-A-Projects)  , [Dashboard](#2-B-dashboard)
 3. [Data Sources](#3-data-sources)
 4. [Contact](#4-contact)
+
+#### Tools I Use
+Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, etc.)
+SQL (PostgreSQL)
+R & R Markdown
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
 <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
-Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, etc.)
-SQL (PostgreSQL)
-R & R Markdown
+
+
 ##### Data Visualization:
 Tableau
 Matplotlib & Seaborn
