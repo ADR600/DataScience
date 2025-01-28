@@ -60,7 +60,7 @@ Dashboards made using tableau , preprocessing using Excel or  Python
 #### 4. Contact
 Gmail:  [ankithrao40@gmail.com](mailto:ankithrao40@gmail.com)
 
-  <img alt="github-snake" src="https://github.com/ADR600/DataScience/blob/782b4ba74c159c475e754b388a8146df4ccecf12/Folder/Snake.yml" />
+
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
