@@ -17,24 +17,19 @@ I am a data enthusiast passionate about leveraging data to solve real-world prob
 
 #### 2. Skills and Tools
 Here are the key skills and tools I bring to the table:
-
 ##### Programming Languages:
 Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, etc.)
 SQL (PostgreSQL)
 R & R Markdown
-
 ##### Data Visualization:
 Tableau
 Matplotlib & Seaborn
-
 ##### Machine Learning:
 Regression, Classification..etc 
-
 ##### Data Engineering:
 ETL (Extract, Transform, Load) processes
 Data cleaning and preprocessing
 Working with APIs and web scraping (BeautifulSoup)
-
 ##### Others:
 Microsoft Excel (advanced)
 Jupyter Notebooks 
