@@ -7,9 +7,10 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 
 1. [About Me](#1-about-me)
 2. [Skills and Tools](#2-skills-and-tools)
-3. [Projects](#3-projects)
-4. [Data Sources](#4-data-sources)
-5. [Contact](#5-contact)
+3. A.[Projects](#3-A-projects)
+3. B.[Dashboard](#3-B-dashboard)
+5. [Data Sources](#4-data-sources)
+6. [Contact](#5-contact)
 
 
 #### 1. About Me
@@ -34,7 +35,7 @@ Working with APIs and web scraping (BeautifulSoup)
 Microsoft Excel (advanced)
 Jupyter Notebooks 
 
-#### 3.A) Projects
+#### 3.A Projects
 This section includes a selection of projects that demonstrate my expertise:
 
 ###### 1. Relation Between Index and Stock 
@@ -52,7 +53,7 @@ Description: Conducted exploratory data analysis (EDA) to understand data and ga
 Tools Used: Python (pandas, seaborn), Google Analytics
 Link: [View Project](https://github.com/ADR600/DataScience/blob/1ce7f406632a4d5debe516ad8e18602db4549b7b/Project/Python_Project/House%20Pricing/House_pricing.ipynb)
 
-#### 3. B) Dashboard 
+#### 3. B Dashboard 
 Dashboards made using tableau , preprocessing using Excel or  Python 
 ##### 1.[Startup in India](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Startup%20Funding%20.md)
 ##### 2.[Customer Insight](https://github.com/ADR600/DataScience/blob/3cdab2eff0419baa385eb47174beab84802a1fe9/Project/Dasboards/Customer%20Insight.md)
