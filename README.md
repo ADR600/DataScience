@@ -7,7 +7,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 #### __Table of Contents__
 
 1. [Skills and Tools](#1-skills-and-tools)
-2. [Projects](#2-A-Projects) [Dashboard](#2-B-dashboard)
+2. [Projects](#2-A-Projects)  , [Dashboard](#2-B-dashboard)
 3. [Data Sources](#3-data-sources)
 4. [Contact](#4-contact)
 
