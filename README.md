@@ -8,9 +8,10 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 1. [About Me](#1-about-me)
 2. [Skills and Tools](#2-skills-and-tools)
 3. A.[Projects](#3-A-Projects)
+   
    B.[Dashboard](#3-B-dashboard)
-4. [Data Sources](#4-data-sources)
-5. [Contact](#5-contact)
+5. [Data Sources](#4-data-sources)
+6. [Contact](#5-contact)
 
 
 #### 1. About Me
