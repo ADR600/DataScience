@@ -7,10 +7,10 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills, pro
 
 1. [About Me](#1-about-me)
 2. [Skills and Tools](#2-skills-and-tools)
-3. A.[Projects](#3-A-projects)
-3. B.[Dashboard](#3-B-dashboard)
-5. [Data Sources](#4-data-sources)
-6. [Contact](#5-contact)
+3. A.[Projects](#3-A-Projects)
+   B.[Dashboard](#3-B-dashboard)
+4. [Data Sources](#4-data-sources)
+5. [Contact](#5-contact)
 
 
 #### 1. About Me
@@ -35,7 +35,7 @@ Working with APIs and web scraping (BeautifulSoup)
 Microsoft Excel (advanced)
 Jupyter Notebooks 
 
-#### 3.A Projects
+#### 3. A Projects
 This section includes a selection of projects that demonstrate my expertise:
 
 ###### 1. Relation Between Index and Stock 
