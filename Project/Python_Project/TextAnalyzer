@@ -1,0 +1,40 @@
+
+#created an class that takes string as input and can return word count of a perticular word
+#ran using Jupiter Notebook
+class TextAnalyzer(object):
+    
+    def __init__ (self, text):
+        # remove punctuation
+        self.text=text
+        self.text = text.lower()
+        self.text= self.text.replace(".","")
+        self.text= self.text.replace("!","")
+        self.text= self.text.replace("?","")
+        self.text= self.text.replace(",","")
+        self.fmtText=self.text
+        self.word=""
+        self.word_dict= dict()
+        self.count=0
+
+# function to count all occurance of word and store in dictonary word_dict 
+
+    def freqAll(self):    
+    # split text into words using space 
+        for letter in self.fmtText :
+                if letter != " " :
+                    self.word= self.word + letter
+                else :
+                    if self.word not in self.word_dict.keys() :
+                        self.word_dict[self.word] = 1
+                    else :
+                        self.word_dict[self.word] +=1    
+                    self.word=""
+                    
+         
+    def freqOf(self,word):
+        # get frequency map
+        for x in self.word_dict.keys() :
+            if x == word :
+                self.count =self.word_dict[x]
+        return self.count
+                
