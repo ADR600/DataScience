@@ -1,21 +1,20 @@
-### __Data Analytics Portfolio__
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+# Hello World!, I'm Ankith , a Aspiring Data Analyst  👋🏼:
 
 Welcome to my Data Analytics Portfolio! This repository showcases my skills, projects, and experience in data analysis, visualization, and modeling. It is designed to demonstrate my ability to derive meaningful insights from data and provide actionable recommendations. Below, you’ll find a breakdown of the contents and a guide to navigating the portfolio.
-
 
 #### __Table of Contents__
 
 1. [About Me](#1-about-me)
 2. [Skills and Tools](#2-skills-and-tools)
-3. A.[Projects](#3-A-Projects)
-   
-   B.[Dashboard](#3-B-dashboard)
+3. [Projects](#3-A-Projects) [Dashboard](#3-B-dashboard)
 5. [Data Sources](#4-data-sources)
 6. [Contact](#5-contact)
 
 
 #### 1. About Me
-I am a data enthusiast passionate about leveraging data to solve real-world problems. My background includes experience in data wrangling, statistical analysis, machine learning, and creating impactful visualizations. I am continuously learning and exploring new tools and methodologies to stay at the forefront of the data analytics field.
+I am a data enthusiast passionate about leveraging data to solve real-world problems.Click [Here]() to find more about me.
 
 #### 2. Skills and Tools
 Here are the key skills and tools I bring to the table:
@@ -66,5 +65,9 @@ Dashboards made using tableau , preprocessing using Excel or  Python
 #### 5. Contact
 Gmail:  [ankithrao40@gmail.com](mailto:ankithrao40@gmail.com)
 , [ankithdineshrao@gmail.com](mailto:ankithdineshrao@gmail.com)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
