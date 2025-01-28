@@ -1,4 +1,4 @@
-<img src="https://github.com/ADR600/DataScience/blob/9e9e7e717f6a5074026066aba9c673201c1a04d3/Folder/githubbanner.png" alt="GitHub Banner" width="750%" />
+<img src="https://github.com/ADR600/DataScience/blob/9e9e7e717f6a5074026066aba9c673201c1a04d3/Folder/githubbanner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Ankith , a Aspiring Data Analyst  👋🏼:
 
