@@ -1,5 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
+<img src="https://github.com/ADR600/DataScience/blob/9e9e7e717f6a5074026066aba9c673201c1a04d3/Folder/githubbanner.png" alt="GitHub Banner" width="100%" />
+![Image](https://github.com/ADR600/DataScience/blob/9e9e7e717f6a5074026066aba9c673201c1a04d3/Folder/githubbanner.png)
 # Hello World!, I'm Ankith , a Aspiring Data Analyst  👋🏼:
 
 Welcome to my Data Analytics Portfolio! This repository showcases my skills, projects, and experience in data analysis, visualization, and modeling. It is designed to demonstrate my ability to derive meaningful insights from data and provide actionable recommendations. Below, you’ll find a breakdown of the contents and a guide to navigating the portfolio.
