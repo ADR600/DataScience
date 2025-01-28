@@ -68,7 +68,7 @@ Description: Identify relationship between index and stock(IRCTC:Indian Railway 
 
 Tools Used: python, pandas, statistics 
 
-Link: [View Project](Project/fintech.ipynb)
+Link: [View Project](Project/Python_Project/fintech.ipynb)
 
 #### 2. Stock Analysis
 
@@ -76,7 +76,7 @@ Description:Using  Yahoo-Finance API and  web-scrapping to obtain data and parse
 
 Liberaries Used: BeautifulSoup,pandas,plotly
 
-Link: [View Project](Project/TSLAvsGME.ipynb)
+Link: [View Project](Project/Python_Project/TSLAvsGME.ipynb)
 
 #### 3. House Pricing 
 
@@ -85,7 +85,7 @@ Description: Conducted exploratory data analysis (EDA) to understand data and ga
 
 Tools Used: Python (pandas, seaborn), Google Analytics
 
-Link: [View To View EDA](Project/House_Pricing/House_pricing.ipynb)
+Link: [View To View EDA](Project/Python_Project/House_Pricing/House_pricing.ipynb)
 
 
 
@@ -100,4 +100,4 @@ Link: [View To View EDA](Project/House_Pricing/House_pricing.ipynb)
 Gmail:  [ankithrao40@gmail.com](mailto:ankithrao40@gmail.com)
 , [ankithdineshrao@gmail.com](mailto:ankithdineshrao@gmail.com)
 
-Linkidin: [Ankith D Rao](www.linkedin.com/in/ankith-d-rao-99a77525b)
+
