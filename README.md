@@ -40,7 +40,7 @@ Description: Identify relationship between index and stock(IRCTC:Indian Railway 
 Tools Used: python, pandas, statistics 
 Link: [View Project](Project/Python_Project/fintech.ipynb)
 ##### 2. Stock Analysis
-Description:Using  Yahoo-Finance API and  web-scrapping to obtain data and parse it using BeautifulSoup. Un-reveal trend in revenue and share price of both stocks. Determining which would be a safer option to invest.
+Description:Using  Yahoo-Finance API and  web-scraping to obtain data and parse it using BeautifulSoup. Un-reveal trend in revenue and share price of both stocks. Determining which would be a safer option to invest.
 Liberaries Used: BeautifulSoup,pandas,plotly
 Link: [View Project](Project/Python_Project/TSLAvsGME.ipynb)
 ##### 3. House Pricing 
