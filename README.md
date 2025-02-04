@@ -35,7 +35,7 @@ Jupyter Notebooks
 
 #### 2. Projects
 This section includes a selection of projects that demonstrate my expertise:
-##### 1. Relation Between Index and Stock 
+##### 1. Regression Analysis
 Description: Identify relationship between index and stock(IRCTC:Indian Railway Catering and Tourism Corporation). Relation 
 Tools Used: python, pandas, statistics 
 Link: [View Project](Project/Python_Project/fintech.ipynb)
